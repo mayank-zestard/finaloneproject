@@ -6,7 +6,7 @@
 namespace Magento\Checkout\Controller\Express;
 
 /**
- * Interface \Magento\Checkout\Controller\Express\RedirectLoginInterface
+ * Interface \Magento\Checkout\Controller\Express\RedirectLoginInterface ttetetetete
  *
  */
 interface RedirectLoginInterface
